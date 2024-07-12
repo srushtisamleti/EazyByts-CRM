@@ -13,7 +13,7 @@ The Customer Relationship Management (CRM) system is designed to help businesses
 * RESTful APIs: Set up APIs to handle client-server communication for managing contacts, sales, tasks, and support tickets.
 * Notifications: Integrated email and notification services to update users on task deadlines and support ticket statuses.
 
-# Technologies Used
+## Technologies Used
 * Front-end: HTML, CSS, JavaScript
 * Back-end: Java, Spring Boot
 * Database: JPA, Hibernate
